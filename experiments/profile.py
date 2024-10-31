@@ -9,7 +9,7 @@ from synthetic_user_profile.protocols.i_azure_openai_service import IAzureOpenAI
 openai_service = container[IAzureOpenAIService]
 
 
-states = ["Washington", "Oregan", "California"]
+states = ["Washington", "Oregon", "California"]
 annual_incomes = [70, 100, 150]
 
 profile_choices = [ProfileChoice(gender="male", state=state) for state in states] + [
