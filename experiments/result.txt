@@ -1,4 +1,4 @@
-Base Bluetooth Headphones
+Bose Bluetooth Headphones
 
     gender       state  annual_income_k  decision
 0   female  California               70       1.0
