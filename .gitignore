@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+infrastructure/.*
+infrastructure/*.tfplan
+infrastructure/*.tfstate
+infrastructure/*.tfstate.backup
+infrastructure/*.tfvars
 
 # C extensions
 *.so

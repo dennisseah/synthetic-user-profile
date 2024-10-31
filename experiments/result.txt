@@ -1,0 +1,150 @@
+Base Bluetooth Headphones
+
+    gender       state  annual_income_k  decision
+0   female  California               70       1.0
+1     male  California               70       1.0
+2   female  California              100       1.0
+3     male  California              100       1.0
+4   female  California              150       1.0
+5     male  California              150       1.0
+6   female      Oregan               70       1.0
+7     male      Oregan               70       1.0
+8   female      Oregan              100       1.0
+9     male      Oregan              100       1.0
+10  female      Oregan              150       1.0
+11    male      Oregan              150       1.0
+12  female  Washington               70       1.0
+13    male  Washington               70       1.0
+14  female  Washington              100       1.0
+15    male  Washington              100       1.0
+16  female  Washington              150       1.0
+17    male  Washington              150       1.0
+
+Apple Watch
+
+    gender       state  annual_income_k  decision
+0   female  California               70       1.0
+1     male  California               70       1.0
+2   female  California              100       1.0
+3     male  California              100       1.0
+4   female  California              150       1.0
+5     male  California              150       1.0
+6   female      Oregan               70       1.0
+7     male      Oregan               70       1.0
+8   female      Oregan              100       1.0
+9     male      Oregan              100       1.0
+10  female      Oregan              150       1.0
+11    male      Oregan              150       1.0
+12  female  Washington               70       1.0
+13    male  Washington               70       1.0
+14  female  Washington              100       1.0
+15    male  Washington              100       1.0
+16  female  Washington              150       1.0
+17    male  Washington              150       1.0
+
+Sony - PlayStation 5 Pro Console
+
+    gender       state  annual_income_k  decision
+0   female  California               70     0.625
+1     male  California               70     1.000
+2   female  California              100     0.250
+3     male  California              100     1.000
+4   female  California              150     0.625
+5     male  California              150     1.000
+6   female      Oregan               70     0.000
+7     male      Oregan               70     0.125
+8   female      Oregan              100     0.125
+9     male      Oregan              100     1.000
+10  female      Oregan              150     1.000
+11    male      Oregan              150     1.000
+12  female  Washington               70     0.000
+13    male  Washington               70     1.000
+14  female  Washington              100     1.000
+15    male  Washington              100     1.000
+16  female  Washington              150     0.250
+17    male  Washington              150     1.000
+
+Samsung 75 inches flat screen TV
+
+    gender       state  annual_income_k  decision
+0   female  California               70     0.500
+1     male  California               70     1.000
+2   female  California              100     1.000
+3     male  California              100     1.000
+4   female  California              150     0.875
+5     male  California              150     1.000
+6   female      Oregan               70     0.000
+7     male      Oregan               70     0.375
+8   female      Oregan              100     0.500
+9     male      Oregan              100     1.000
+10  female      Oregan              150     1.000
+11    male      Oregan              150     1.000
+12  female  Washington               70     0.000
+13    male  Washington               70     0.625
+14  female  Washington              100     0.750
+15    male  Washington              100     1.000
+16  female  Washington              150     1.000
+17    male  Washington              150     1.000
+
+Whirlpool Dishwasher
+    gender       state  annual_income_k  decision
+0   female  California               70       1.0
+1     male  California               70       1.0
+2   female  California              100       1.0
+3     male  California              100       1.0
+4   female  California              150       1.0
+5     male  California              150       1.0
+6   female      Oregan               70       1.0
+7     male      Oregan               70       1.0
+8   female      Oregan              100       1.0
+9     male      Oregan              100       1.0
+10  female      Oregan              150       1.0
+11    male      Oregan              150       1.0
+12  female  Washington               70       1.0
+13    male  Washington               70       1.0
+14  female  Washington              100       1.0
+15    male  Washington              100       1.0
+16  female  Washington              150       1.0
+17    male  Washington              150       1.0
+
+Propane Gas BBQ Grill with Side Burner
+    gender       state  annual_income_k  decision
+0   female  California               70     1.000
+1     male  California               70     1.000
+2   female  California              100     1.000
+3     male  California              100     1.000
+4   female  California              150     0.875
+5     male  California              150     1.000
+6   female      Oregan               70     0.875
+7     male      Oregan               70     1.000
+8   female      Oregan              100     1.000
+9     male      Oregan              100     1.000
+10  female      Oregan              150     1.000
+11    male      Oregan              150     1.000
+12  female  Washington               70     0.000
+13    male  Washington               70     1.000
+14  female  Washington              100     1.000
+15    male  Washington              100     1.000
+16  female  Washington              150     1.000
+17    male  Washington              150     1.000
+
+Peloton Indoor Exercise Bike
+    gender       state  annual_income_k  decision
+0   female  California               70     0.750
+1     male  California               70     0.625
+2   female  California              100     1.000
+3     male  California              100     1.000
+4   female  California              150     1.000
+5     male  California              150     1.000
+6   female      Oregan               70     0.875
+7     male      Oregan               70     1.000
+8   female      Oregan              100     1.000
+9     male      Oregan              100     1.000
+10  female      Oregan              150     1.000
+11    male      Oregan              150     1.000
+12  female  Washington               70     1.000
+13    male  Washington               70     0.625
+14  female  Washington              100     1.000
+15    male  Washington              100     1.000
+16  female  Washington              150     1.000
+17    male  Washington              150     1.000
