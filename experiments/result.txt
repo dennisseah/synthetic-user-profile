@@ -45,45 +45,45 @@ Apple Watch
 Sony - PlayStation 5 Pro Console
 
     gender       state  annual_income_k  decision
-0   female  California               70     0.625
+0   female  California               70     0.250
 1     male  California               70     1.000
-2   female  California              100     0.250
+2   female  California              100     0.125
 3     male  California              100     1.000
-4   female  California              150     0.625
+4   female  California              150     0.500
 5     male  California              150     1.000
 6   female      Oregon               70     0.000
-7     male      Oregon               70     0.125
-8   female      Oregon              100     0.125
+7     male      Oregon               70     0.750
+8   female      Oregon              100     0.375
 9     male      Oregon              100     1.000
-10  female      Oregon              150     1.000
+10  female      Oregon              150     0.875
 11    male      Oregon              150     1.000
 12  female  Washington               70     0.000
 13    male  Washington               70     1.000
-14  female  Washington              100     1.000
+14  female  Washington              100     0.750
 15    male  Washington              100     1.000
-16  female  Washington              150     0.250
+16  female  Washington              150     0.375
 17    male  Washington              150     1.000
 
 Samsung 75 inches flat screen TV
 
     gender       state  annual_income_k  decision
-0   female  California               70     0.500
+0   female  California               70     0.375
 1     male  California               70     1.000
 2   female  California              100     1.000
 3     male  California              100     1.000
-4   female  California              150     0.875
+4   female  California              150     1.000
 5     male  California              150     1.000
 6   female      Oregon               70     0.000
-7     male      Oregon               70     0.375
-8   female      Oregon              100     0.500
+7     male      Oregon               70     0.250
+8   female      Oregon              100     0.250
 9     male      Oregon              100     1.000
 10  female      Oregon              150     1.000
 11    male      Oregon              150     1.000
 12  female  Washington               70     0.000
-13    male  Washington               70     0.625
-14  female  Washington              100     0.750
+13    male  Washington               70     0.500
+14  female  Washington              100     0.875
 15    male  Washington              100     1.000
-16  female  Washington              150     1.000
+16  female  Washington              150     0.750
 17    male  Washington              150     1.000
 
 Whirlpool Dishwasher
@@ -131,19 +131,19 @@ Propane Gas BBQ Grill with Side Burner
 Peloton Indoor Exercise Bike
     gender       state  annual_income_k  decision
 0   female  California               70     0.750
-1     male  California               70     0.625
+1     male  California               70     0.750
 2   female  California              100     1.000
 3     male  California              100     1.000
 4   female  California              150     1.000
 5     male  California              150     1.000
-6   female      Oregon               70     0.875
+6   female      Oregon               70     1.000
 7     male      Oregon               70     1.000
 8   female      Oregon              100     1.000
 9     male      Oregon              100     1.000
 10  female      Oregon              150     1.000
 11    male      Oregon              150     1.000
 12  female  Washington               70     1.000
-13    male  Washington               70     0.625
+13    male  Washington               70     0.875
 14  female  Washington              100     1.000
 15    male  Washington              100     1.000
 16  female  Washington              150     1.000
